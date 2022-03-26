@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Laptop",
+      "categoryId": 1,
+      "unitPrice": 5000.99
+    },
+    {
+      "id": 2,
+      "productName": "Mouse",
+      "categoryId": 1,
+      "unitPrice": 50.99
+    },
+    {
+      "id": 3,
+      "productName": "Water",
+      "categoryId": 2,
+      "unitPrice": 0.99
+    },
+    {
+      "id": 4,
+      "productName": "Telephone",
+      "categoryId": 1,
+      "unitPrice": 6000
+    },
+    {
+      "id": 5,
+      "productName": "Microphone",
+      "categoryId": 1,
+      "unitPrice": 2000
+    },
+    {
+      "id": 7,
+      "productName": "Microphone",
+      "categoryId": 1,
+      "unitPrice": 2000
+    },
+    {
+      "id": 8,
+      "productName": "Microphone",
+      "categoryId": 1,
+      "unitPrice": 2000
+    },
+    {
+      "id": 9,
+      "productName": "Microphone 2",
+      "categoryId": 1,
+      "unitPrice": 2000
+    },
+    {
+      "id": 10,
+      "productName": "Microphone 3",
+      "categoryId": 1,
+      "unitPrice": 2000
+    },
+    {
+      "id": 11,
+      "productName": "Telefon",
+      "categoryId": 1,
+      "unitPrice": 7999.9
+    },
+    {
+      "id": 12,
+      "productName": "Telefon",
+      "categoryId": 1,
+      "unitPrice": 7999.9
+    },
+    {
+      "id": 13,
+      "productName": "Telefon",
+      "categoryId": 1,
+      "unitPrice": 7999.9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Technology"
+    },
+    {
+      "id": 2,
+      "categoryName": "Beverages"
+    }
+  ]
+}
